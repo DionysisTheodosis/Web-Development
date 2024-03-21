@@ -1,3 +1,3 @@
-# Web-Development
+# Web-Development-University-Projects
 
-## Projects for University for the lab and the theory class
+## Description: This repository holds the code for my website and API project for the "Introduction to Web Development" course at the University of the Aegean.
